@@ -12,18 +12,25 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Learning AWS And Creating An Intresting ML Project Using That**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **AWS, Machine Learning, AI**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, C, Web Dev... or anything [here](https://github.com/duckworthcodes/issuesandforums/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡🔭 I’m currently working on **Learning AWS and Creating an Interesting ML Project Using That**
+
+🌱 I’m currently learning **AWS, Machine Learning, AI**
+
+💬 Ask me about **Python, C, Web Dev... or anything [here](https://github.com/duckworthcodes/issuesandforums/issues)**
+
+⚡ Fun fact: **Future Trunks' iconic sword was inspired by a prop from the movie *Highlander*! ⚔️ The sword was designed to give Trunks a unique look and emphasize his role as a warrior from a dystopian future.**
+
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:duckworthcodesgithub@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
