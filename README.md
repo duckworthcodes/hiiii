@@ -5,7 +5,8 @@
 
 
 
-<h3 align="center">A passionate developer from India IN</h3>
+<h3 align="center">A passionate developer from India 🇮🇳, brewing ideas ☕ and crafting code 💻 to make magic happen ✨!</h3>
+
 
 <br/>
 
