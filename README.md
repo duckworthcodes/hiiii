@@ -30,10 +30,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:duckworthcodesgithub@gmail.com">
+  <a href="mailto:pduckworthcodesgithub@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="www.linkedin.com/in/vaibhav-verma1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
